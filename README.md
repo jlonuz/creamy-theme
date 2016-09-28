@@ -1,4 +1,4 @@
-# Proyecto laboratoeia utils
+# Proyecto laboratoria utils
 
 ##### Este proyecto tiene una descripción en __markdown__
 
